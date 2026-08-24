@@ -4,8 +4,14 @@ Sou estudante de Tecnologia da Informação, apaixonado por tecnologia e aprendi
 
 🛠️ Linguagens e Ferramentas
 
-Front-end (Em aprendizado): HTML, CSS, JavaScript, React
-Back-end (Em aprendizado): Python, Node.js
-Design (Em aprendizado): Figma
-Versionamento (Em aprendizado): Git, GitHub
-Editor de Código (Em aprendizado): VS Code, Dev-C++
+* **Front-end (Em aprendizado):** HTML, CSS, JavaScript, React
+
+* **Back-end (Em aprendizado):** Python, Node.js
+
+* **Design (Em aprendizado):** Figma
+
+* **Versionamento (Em aprendizado):** Git, GitHub
+
+* **Editor de Código (Em aprendizado):** VS Code, Dev-C++
+
+* **Outros (Em aprendizado):** Markdown, Modelagem de Dados, Metodologias Ágeis

@@ -21,6 +21,7 @@ Sou estudante de Tecnologia da Informação, apaixonado por tecnologia e aprendi
 
 Esta Seção será atualizada conforme novos projetos surgirem.
 
+### 📫 Como me encontrar
 
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:conceicaoasllam472@gmail.com)
 

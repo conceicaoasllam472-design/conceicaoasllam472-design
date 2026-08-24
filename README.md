@@ -30,6 +30,6 @@ Esta Seção será atualizada conforme novos projetos surgirem.
 
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/seuperfil)](https://dev.to/seuperfil)
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/seuperfil)](https://instagram.com/seuperfil)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/seuperfil)](https://instagram.com/Asllam.07)
 
 
